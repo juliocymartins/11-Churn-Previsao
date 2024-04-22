@@ -1,6 +1,6 @@
 # Churn Prediction
 
-<img align="center" alt="Coding" width="400" src="https://propz.com.br/wp-content/uploads/2022/12/capa-6-jpg.webp">
+<img align="center" alt="Coding" width="400" src="https://propz.com.br/wp-content/uploads/2022/12/capa-6-jpg-1200x900.webp">
 
 # Overview
 This project focuses on analyzing customer data to predict behavior and improve customer retention efforts. The dataset includes information about customer churn, subscribed services, account details, and demographic information. The aim is to explore predictive models and gain insights into customer retention strategies.
@@ -35,11 +35,11 @@ Demographic info about customers – gender, age range, and if they have partner
 - Run the Jupyter Notebook or Python scripts in the respective chapters to execute the code.
 
 # Repository
-clean_data: Contains clean data.
-final_model: Contains the final model saved as a pickle file.
-raw_data: Contains raw data.
-visualizations: Contains graphs and plots.
-churn_prediction.ipynb: Jupyter Notebook file for churn prediction.
+- clean_data: Contains clean data.
+- final_model: Contains the final model saved as a pickle file.
+- raw_data: Contains raw data.
+- visualizations: Contains graphs and plots.
+- churn_prediction.ipynb: Jupyter Notebook file for churn prediction.
 
 # Author
 Julio Cesar Yamashita Martins
