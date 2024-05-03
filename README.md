@@ -44,7 +44,7 @@ Link to Dataset: [Telco Customer Churn](https://www.kaggle.com/datasets/blastcha
 - churn_prediction.ipynb: Jupyter Notebook file for churn prediction.
 
 # Author
-Julio Cesar Yamashita Martins
+Julio Cesar Yamashita Martins - Developer and Data Scientist
 
 # E-mail
 yamashitajulio@gmail.com
