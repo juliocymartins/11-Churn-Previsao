@@ -1,6 +1,6 @@
 # Churn Prediction
 
-<img align="center" alt="Coding" width="400" src="https://propz.com.br/wp-content/uploads/2022/12/capa-6-jpg-1200x900.webp">
+<img align="center" alt="Coding" width="400" src="https://sm.ign.com/t/ign_br/screenshot/default/planeta-dos-macacos_skg7.960.jpg">
 
 # Overview
 This project focuses on analyzing customer data to predict behavior and improve customer retention efforts. The dataset includes information about customer churn, subscribed services, account details, and demographic information. The aim is to explore predictive models and gain insights into customer retention strategies.
