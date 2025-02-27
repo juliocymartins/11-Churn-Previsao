@@ -1,27 +1,24 @@
-# Churn Prediction
+# Previsão de Churn
 
 <img align="center" alt="Coding" width="400" src="https://propz.com.br/wp-content/uploads/2022/12/capa-6-jpg-1200x900.webp">
 
-# Overview
-This project focuses on analyzing customer data to predict behavior and improve customer retention efforts. The dataset includes information about customer churn, subscribed services, account details, and demographic information. The aim is to explore predictive models and gain insights into customer retention strategies.
+# Introdução
+Este projeto foca na criação de um algoritmo preditivo para analisar dados de clientes e prever comportamentos, auxiliando na retenção de clientes. O conjunto de dados inclui informações sobre cancelamento de clientes, serviços assinados, detalhes da conta e dados demográficos. O objetivo é desenvolver modelos preditivos e obter insights que possam aprimorar as estratégias de retenção.
 
-# About Dataset
+# Sobre o Conjunto de Dados
 
-### Context
-"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
+### Contexto
+"Preveja comportamentos para reter clientes. Você pode analisar todos os dados relevantes dos clientes e desenvolver programas focados na retenção de clientes." [IBM Sample Data Sets]
 
-### Content
-Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
+### O conjunto de dados inclui informações sobre:
+- Clientes que cancelaram nos últimos meses – essa informação está na coluna Churn.
+- Serviços assinados por cada cliente – como telefone, múltiplas linhas, internet, segurança online, backup online, proteção de dispositivo, suporte técnico e streaming de TV e filmes.
+- Informações da conta do cliente – tempo como cliente, tipo de contrato, método de pagamento, faturamento sem papel, cobranças mensais e cobranças totais.
+- Dados demográficos dos clientes – gênero, faixa etária e se possuem parceiros ou dependentes.
+  
+Link para acessar o Dataset: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
-### The data set includes information about:
-Customers who left within the last month – the column is called Churn
-Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
-Demographic info about customers – gender, age range, and if they have partners and dependents
-
-Link to Dataset: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
-
-# Required Packages
+# Pacotes Necessários
 - pandas
 - matplotlib
 - seaborn
@@ -30,21 +27,21 @@ Link to Dataset: [Telco Customer Churn](https://www.kaggle.com/datasets/blastcha
 - imbalanced-learn
 - TensorFlow
 
-# How to Use
-- Clone the repository to your local machine.
-- Ensure that the raw data is located in the same directory as the notebook.
-- Install the required packages using the provided command.
-- Run the Jupyter Notebook or Python scripts in the respective chapters to execute the code.
+# Como Usar
+- Copie o repositório para sua máquina local.
+- Certifique-se de que os dados brutos estão no mesmo diretório do notebook.
+- Instale os pacotes necessários.
+- Execute o Jupyter Notebook ou os scripts Python nos respectivos capítulos para rodar o código.
 
-# Repository
-- clean_data: Contains clean data.
-- final_model: Contains the final model saved as a pickle file.
-- raw_data: Contains raw data.
-- visualizations: Contains graphs and plots.
-- churn_prediction.ipynb: Jupyter Notebook file for churn prediction.
+# Arquivos no Repositório
+- clean_data: Contém os dados limpos.
+- final_model: Contém o modelo final salvo como um arquivo pickle.
+- raw_data: Contém os dados brutos.
+- visualizations: Contém gráficos utilizados no projeto.
+- churn_prediction.ipynb: Contém o arquivo do Jupyter Notebook para previsão de Churn.
 
-# Author
-Julio Cesar Yamashita Martins - Developer and Data Scientist
+# Autor
+Julio Cesar Yamashita Martins
 
 # E-mail
 yamashitajulio@gmail.com
