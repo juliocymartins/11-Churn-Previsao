@@ -14,7 +14,7 @@ Termo em inglês que se refere a taxa de cancelamento de clientes dentro de um d
 "Preveja comportamentos para reter clientes. Você pode analisar todos os dados relevantes dos clientes e desenvolver programas focados na retenção de clientes." [IBM Sample Data Sets]
 
 ### O conjunto de dados inclui informações sobre:
-- Clientes que cancelaram nos últimos meses – essa informação está na coluna Churn.
+- Clientes que cancelaram ou não nos últimos meses – essa informação está na coluna Churn.
 - Serviços assinados por cada cliente – como telefone, múltiplas linhas, internet, segurança online, backup online, proteção de dispositivo, suporte técnico e streaming de TV e filmes.
 - Informações da conta do cliente – tempo como cliente, tipo de contrato, método de pagamento, faturamento sem papel, cobranças mensais e cobranças totais.
 - Dados demográficos dos clientes – gênero, faixa etária e se possuem parceiros ou dependentes.
