@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="400" src="https://propz.com.br/wp-content/uploads/2022/12/capa-6-jpg-1200x900.webp">
 
 # Introdução
-Este projeto foca na criação de um algoritmo preditivo para analisar dados de clientes e prever cancelamento de serviços, auxiliando na retenção de clientes. O conjunto de dados inclui informações sobre cancelamento de clientes, serviços assinados, detalhes da conta e dados demográficos. O objetivo é desenvolver modelos preditivos e ajudar a obter insights que possam aprimorar as estratégias de retenção.
+Este projeto foca na criação de um algoritmo preditivo para analisar dados de clientes e prever cancelamento de serviços. O conjunto de dados inclui informações sobre cancelamento de clientes, serviços assinados, detalhes da conta e dados demográficos. O objetivo é desenvolver modelos preditivos e ajudar a obter insights que possam aprimorar as estratégias de retenção.
 
 ### Churn
 Termo em inglês que se refere a taxa de cancelamento de clientes dentro de um determinado período. No contexto de negócios, especialmente em serviços por assinatura, representa a porcentagem de clientes que deixaram de usar um serviço. Analisar o churn ajuda empresas a entenderem os motivos das saídas e criarem estratégias para melhorar a retenção de clientes.
